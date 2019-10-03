@@ -9,9 +9,9 @@
 	- This project provides entities and model classes. Like Commands enumerations, pacman position etc.
 - <b>Pacman.Services</b>
   -  This Project provides service interfaces and their logic. Notable services are supported command by pacman like Move, Left, Right, Place.
--<b> Pacman.Processor</b>
+- <b> Pacman.Processor</b>
   - This project acts as the pacman engine and process a number of commands and position pacman in the correct place. It also reports current position of the pacman.
--<b> Pacman </b>
+- <b> Pacman </b>
   - This project is the main entry of application. It parses commands from command line and passes them to pacman processor as it depends on.The parser can parse commands from console and file alternatively. The Runtime parses instructions from command line.
 - <b>Pacman.UnitTest </b>
   - This is Unit test projects. Unit test are divided into categories of  test cases : normal  and edge-case scenarios. The commands of each unit test provied by a separate text file in the project directory.
@@ -30,12 +30,12 @@ Open the solution via Visual Studio and Run the Pacman project
 
 <b>Example screen When program loads</b>
 
-![File](./Images/file.png)
+![File](./Images/file.PNG )
 
-<b> Key-In few invalid command & validation  </b>
+<b> Key in few invalid commands & validation  </b>
 
-![File2](./Images/file2.png)
+![File2](./Images/file2.PNG)
 
-<b> key in few command and reporting new position </b>
+<b> key in few commands and report new position </b>
 
-![File3](./Images/file3.png)
+![File3](./Images/file3.PNG)
