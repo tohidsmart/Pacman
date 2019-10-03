@@ -39,3 +39,7 @@ Open the solution via Visual Studio and Run the Pacman project
 <b> key in few commands and report new position </b>
 
 ![File3](./Images/file3.PNG)
+
+<b> Unit tests result </b>
+
+![File4](./Images/file4.PNG)
