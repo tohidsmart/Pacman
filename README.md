@@ -2,8 +2,8 @@
 1. This solution is implemented using .Net Core version 2.1 and runs as a console app.
 
 2.  The root directory contains README file, demo sample images and projects folders.Each folder contains the source code  
-3. In order to be scalable and maintainable,the Pacman application divided into the following projects.
-4. The source code has comment and edge-case and normal scenarios tested via unit tests
+3. he source code has comments and edge-case and normal scenarios tested with unit tests
+4. In order to be scalable and maintainable,the Pacman application divided into the following projects.T
 --- 
 - <b>Pacman.Entities </b>
 	- This project provides entities and model classes such as Commands enumerations,  position etc.
