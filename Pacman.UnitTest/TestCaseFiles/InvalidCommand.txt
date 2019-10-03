@@ -1,0 +1,4 @@
+﻿place 2,3,north
+go
+left
+right

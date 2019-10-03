@@ -1,0 +1,8 @@
+﻿Left
+Move
+Move
+Place 2,2,North
+Move
+Left
+Move
+Move

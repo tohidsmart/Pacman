@@ -1,0 +1,7 @@
+﻿Left
+Move
+Move
+Right
+Move
+Left
+Move

@@ -1,0 +1,3 @@
+﻿Place 0,0,West
+Move
+Move

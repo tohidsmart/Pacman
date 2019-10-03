@@ -1,0 +1,3 @@
+﻿Place 5,5,EAST
+Move
+Move

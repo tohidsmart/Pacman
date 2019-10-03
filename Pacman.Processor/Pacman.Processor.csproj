@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Engine\Interface\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Pacman.Entities\Pacman.Entities.csproj" />
+    <ProjectReference Include="..\Pacman.Services\Pacman.Services.csproj" />
+  </ItemGroup>
+
+</Project>
