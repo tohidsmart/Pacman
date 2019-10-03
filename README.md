@@ -6,7 +6,7 @@
 4. The source code has comment and edge-case and normal scenarios tested via unit tests
 --- 
 - <b>Pacman.Entities </b>
-	- This project provides entities and model classes. Like Commands enumerations, pacman position etc.
+	- This project provides entities and model classes such as Commands enumerations,  position etc.
 - <b>Pacman.Services</b>
   -  This Project provides service interfaces and their logic. Notable services are supported command by pacman like Move, Left, Right, Place.
 - <b> Pacman.Processor</b>
@@ -14,7 +14,7 @@
 - <b> Pacman </b>
   - This project is the main entry of application. It parses commands from command line and passes them to pacman processor as it depends on.The parser can parse commands from console and file alternatively. The Runtime parses instructions from command line.
 - <b>Pacman.UnitTest </b>
-  - This is Unit test projects. Unit test are divided into categories of  test cases : normal  and edge-case scenarios. The commands of each unit test provied by a separate text file in the project directory.
+  - This is Unit test projects. Unit test are divided into two categories of test cases : normal  and edge-case scenarios. The commands of each unit test provied by a separate text file in the project directory.
 
 #### How to run the project 
 
